@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto';
+}
+.layout-container {
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-left: 130px;
+  padding-right: 130px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}

@@ -1,0 +1,31 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto';
+}
+
+.config-control-container {
+  background-color: #475569;
+  color: #f1f5f9;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.config-control-heading {
+  margin-bottom: 20px;
+}
+.controls-container {
+}
+.checkbox-field {
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+}
+.label-name {
+}
+.input-checkbox {
+  margin-right: 10px;
+}

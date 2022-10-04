@@ -1,0 +1,19 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto';
+}
+
+.header-container {
+  background-color: #cbd5e1;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-heading {
+  color: #475569;
+}
